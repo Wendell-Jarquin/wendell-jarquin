@@ -19,72 +19,109 @@
 ---
 
 ## Sobre mí
-Soy Wendell Jarquin. Me especializo en diseñar y desarrollar sistemas y sitios web desde cero utilizando PHP puro, HTML y JavaScript (vanilla). Prioritizo código limpio, rendimiento, compatibilidad y experiencia de usuario en entornos reales de producción.
-
-## Proyectos destacados
-- Games — Wendell Jarxd  
-  URL: http://games.wendelljarxd.com/
-- Portal institucional — Alcaldía Nueva Guinea  
-  URL: https://alcaldianuevaguinea.com/
-
-> Nota: los URLs arriba se muestran como texto para que no estén incrustados dentro de frases como hipervínculos.
-
-## Servicios / Qué ofrezco
-- Desarrollo backend a medida con PHP (sin frameworks).
-- Maquetado y UX con HTML y JavaScript (vanilla).
-- Integración con bases de datos MySQL.
-- Optimización de rendimiento y buenas prácticas de seguridad básica.
-- Mantenimiento, despliegue y documentación de proyectos.
-
-## TECNOJAR — Nuestro equipo
-TECNOJAR es el grupo que coordino. Nos dedicamos al desarrollo web integral: planificación, desarrollo, pruebas y soporte post-lanzamiento. Proyectos institucionales, plataformas interactivas y sistemas administrativos.
-
-Servicios principales:
-- Sistemas y portales a medida
-- Diseño responsive y accesible
-- Auditoría de rendimiento y optimización
-- Soporte y mantenimiento técnico
-
-## Temas de interés
-- Arquitectura de aplicaciones ligeras con PHP puro
-- Código mantenible y pruebas básicas
-- Accesibilidad y rendimiento web
-- Integración de APIs y servicios externos
-- Experiencia de usuario y maquetado responsivo
-
-## Estadísticas y gráficos (visual)
-<p align="center">
-  <!-- Estadísticas generales del perfil (imagen) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Wendell-Jarquin&show_icons=true&count_private=true&theme=default" alt="Estadísticas de GitHub de Wendell-Jarquin" />
-</p>
-
-<p align="center">
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell-Jarquin&layout=compact&theme=default" alt="Lenguajes principales" />
-</p>
-
-<p align="center">
-  <!-- Streak / actividad (gráfico simple) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wendell-Jarquin&theme=default" alt="Racha de contribuciones" />
-</p>
-
-> He eliminado el gráfico de asistencias (contribución tipo calendario) como pediste. Los gráficos mostrados son tarjetas de estadísticas y lenguajes que aportan una vista profesional sin repetir la gráfica de calendario.
-
-## Contribuciones totales
-- Ver estadísticas completas en la tarjeta "Estadísticas de GitHub" arriba (incluye repositorios públicos y, si corres servicios que lo permiten, recuento de contribuciones y actividad).
-
-## Stack técnico
-PHP (puro) • HTML5 • JavaScript (vanilla) • CSS (responsive) • MySQL • Apache / Nginx
-
-## Contacto
-- GitHub: Wendell-Jarquin  
-- Proyectos:  
-  http://games.wendelljarxd.com/  
-  https://alcaldianuevaguinea.com/
+Soy Wendell Jarquin. Desarrollo sistemas y sitios web desde cero usando PHP puro, HTML y JavaScript (vanilla). Me especializo en soluciones prácticas y mantenibles: código claro, rendimiento, accesibilidad y despliegue en entornos reales.
 
 ---
 
-Si quieres, puedo:
-- Ajustar colores y el tema de los badges/estadísticas (dark/light).
-- Reducir o cambiar el tamaño del logo o las tarjetas de estadísticas.
-- Preparar la versión corta para la bio de GitHub (una línea).
+## Proyectos destacados
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <div style="border:1px solid #e1e4e8; padding:16px; border-radius:10px; text-align:left;">
+        <h3 style="margin:0 0 6px 0;">🎮 Games — Wendell Jarxd</h3>
+        <p style="margin:6px 0 10px 0; color:#333;">Colección de juegos y demos web con lógica propia en PHP y experiencias interactivas en JavaScript. Interfaz ligera y compatible con múltiples dispositivos.</p>
+        <p style="margin:0; font-weight:600;">URL:</p>
+        <pre style="background:#f6f8fa; padding:8px; border-radius:6px; overflow:auto; margin-top:6px;">http://games.wendelljarxd.com/</pre>
+      </div>
+    </td>
+
+    <td align="center" valign="top" width="50%">
+      <div style="border:1px solid #e1e4e8; padding:16px; border-radius:10px; text-align:left;">
+        <h3 style="margin:0 0 6px 0;">🏛️ Portal — Alcaldía Nueva Guinea</h3>
+        <p style="margin:6px 0 10px 0; color:#333;">Portal institucional desarrollado con PHP puro, centrado en accesibilidad, gestión de contenidos y facilidad de administración para el equipo municipal.</p>
+        <p style="margin:0; font-weight:600;">URL:</p>
+        <pre style="background:#f6f8fa; padding:8px; border-radius:6px; overflow:auto; margin-top:6px;">https://alcaldianuevaguinea.com/</pre>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Visualización y estadísticas (2 columnas)
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Wendell-Jarquin&show_icons=true&count_private=true&theme=default" alt="Estadísticas de GitHub" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell-Jarquin&layout=compact&theme=default" alt="Lenguajes principales" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wendell-Jarquin&theme=default" alt="Racha de contribuciones" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <p style="margin-top:10px;">
+        <img src="https://img.shields.io/badge/TECNOJAR-Desarrollo%20Web-blue" alt="TECNOJAR" />
+      </p>
+      <p style="color:#586069; margin-top:6px;">Grupo: TECNOJAR — Desarrollo web integral: planificación, creación y soporte.</p>
+    </td>
+  </tr>
+</table>
+
+> Nota: he evitado mostrar la gráfica tipo calendario de contribuciones (asistencias) para mantener el diseño limpio, como solicitaste.
+
+---
+
+## Qué ofrezco / Servicios
+- Desarrollo de sistemas a medida (PHP puro)  
+- Maquetado y experiencia de usuario con HTML y JavaScript  
+- Integración con bases de datos MySQL y API REST sencillas  
+- Auditoría de rendimiento, optimización y seguridad básica  
+- Mantenimiento, backups y despliegue en servidores compartidos o VPS
+
+---
+
+## TECNOJAR — Nuestro equipo
+TECNOJAR es el grupo que coordino. Nos especializamos en proyectos web integrales: desde la especificación hasta el soporte post-lanzamiento. Trabajamos con clientes institucionales y pymes para entregar soluciones robustas y fáciles de mantener.
+
+---
+
+## Temas de interés
+- 🔧 Arquitectura ligera con PHP puro  
+- 🧩 Buenas prácticas y código mantenible  
+- ♿ Accesibilidad web (a11y)  
+- 🚀 Rendimiento y optimización front-end  
+- 🔒 Seguridad básica en sitios y formularios  
+- 🔗 Integración de APIs y microservicios sencillos  
+- 🎨 UX, maquetado responsivo y diseño centrado en el usuario
+
+<p align="center">
+  <img alt="a11y" src="https://img.shields.io/badge/Accesibilidad-a11y-brightgreen" />
+  <img alt="performance" src="https://img.shields.io/badge/Performance-Optimized-blue" />
+  <img alt="security" src="https://img.shields.io/badge/Seguridad-Básica-red" />
+  <img alt="api" src="https://img.shields.io/badge/APIs-REST-yellow" />
+  <img alt="ux" src="https://img.shields.io/badge/UX-Responsive-9cf" />
+</p>
+
+---
+
+## Stack técnico
+PHP (puro) • HTML5 • JavaScript (vanilla) • CSS moderno (responsive) • MySQL • Apache / Nginx
+
+---
+
+## Contacto
+GitHub: Wendell-Jarquin
+
+Proyectos (URLs en texto):
+http://games.wendelljarxd.com/  
+https://alcaldianuevaguinea.com/
+
+---
+
+¡Gracias por visitarme! 🙏  
+Si te interesa colaborar o cotizar un proyecto, escríbeme y coordinamos los detalles.
