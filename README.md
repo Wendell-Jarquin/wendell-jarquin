@@ -19,7 +19,7 @@
 ---
 
 ## Sobre mí
-Soy Wendell Jarquin. Desarrollo sistemas y sitios web desde cero usando PHP puro, HTML y JavaScript (vanilla). Me especializo en soluciones prácticas y mantenibles: código claro, rendimiento, accesibilidad y despliegue en entornos reales.
+Soy Wendell Jarquin. Desarrollo sistemas y sitios web desde cero usando PHP puro, HTML y JavaScript (vanilla). Me enfoco en código claro, rendimiento, accesibilidad y en entregar soluciones listas para producción.
 
 ---
 
@@ -29,16 +29,25 @@ Soy Wendell Jarquin. Desarrollo sistemas y sitios web desde cero usando PHP puro
     <td align="center" valign="top" width="50%">
       <div style="border:1px solid #e1e4e8; padding:16px; border-radius:10px; text-align:left;">
         <h3 style="margin:0 0 6px 0;">🎮 Games — Wendell Jarxd</h3>
-        <p style="margin:6px 0 10px 0; color:#333;">Colección de juegos y demos web con lógica propia en PHP y experiencias interactivas en JavaScript. Interfaz ligera y compatible con múltiples dispositivos.</p>
+        <p style="margin:6px 0 10px 0; color:#333;">
+          Colección de juegos y demos web con lógica propia en PHP y experiencias interactivas en JavaScript. Interfaz ligera y compatible con dispositivos móviles y de escritorio.
+        </p>
         <p style="margin:0; font-weight:600;">URL:</p>
         <pre style="background:#f6f8fa; padding:8px; border-radius:6px; overflow:auto; margin-top:6px;">http://games.wendelljarxd.com/</pre>
       </div>
     </td>
 
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td align="center" valign="top" width="50%">
       <div style="border:1px solid #e1e4e8; padding:16px; border-radius:10px; text-align:left;">
         <h3 style="margin:0 0 6px 0;">🏛️ Portal — Alcaldía Nueva Guinea</h3>
-        <p style="margin:6px 0 10px 0; color:#333;">Portal institucional desarrollado con PHP puro, centrado en accesibilidad, gestión de contenidos y facilidad de administración para el equipo municipal.</p>
+        <p style="margin:6px 0 10px 0; color:#333;">
+          Portal institucional desarrollado con PHP puro: administración de contenidos, accesibilidad y gestión enfocada en el equipo municipal.
+        </p>
         <p style="margin:0; font-weight:600;">URL:</p>
         <pre style="background:#f6f8fa; padding:8px; border-radius:6px; overflow:auto; margin-top:6px;">https://alcaldianuevaguinea.com/</pre>
       </div>
@@ -72,8 +81,6 @@ Soy Wendell Jarquin. Desarrollo sistemas y sitios web desde cero usando PHP puro
   </tr>
 </table>
 
-> Nota: he evitado mostrar la gráfica tipo calendario de contribuciones (asistencias) para mantener el diseño limpio, como solicitaste.
-
 ---
 
 ## Qué ofrezco / Servicios
@@ -82,11 +89,6 @@ Soy Wendell Jarquin. Desarrollo sistemas y sitios web desde cero usando PHP puro
 - Integración con bases de datos MySQL y API REST sencillas  
 - Auditoría de rendimiento, optimización y seguridad básica  
 - Mantenimiento, backups y despliegue en servidores compartidos o VPS
-
----
-
-## TECNOJAR — Nuestro equipo
-TECNOJAR es el grupo que coordino. Nos especializamos en proyectos web integrales: desde la especificación hasta el soporte post-lanzamiento. Trabajamos con clientes institucionales y pymes para entregar soluciones robustas y fáciles de mantener.
 
 ---
 
