@@ -32,10 +32,15 @@ Soy Wendell Jarquin. Desarrollo sistemas y sitios web desde cero usando PHP puro
         <p style="margin:6px 0 10px 0; color:#333;">
           Colección de juegos y demos web con lógica propia en PHP y experiencias interactivas en JavaScript. Interfaz ligera y compatible con dispositivos móviles y de escritorio.
         </p>
-        <p style="margin:0; font-weight:600;">URL:</p>
-        <pre style="background:#f6f8fa; padding:8px; border-radius:6px; overflow:auto; margin-top:6px;">http://games.wendelljarxd.com/</pre>
+        <p style="margin:0; font-weight:600;">Acceder:</p>
+        <p align="center" style="margin-top:8px;">
+          <a href="http://games.wendelljarxd.com/" target="_blank" rel="noopener">
+            <img src="https://img.shields.io/badge/Ir%20a%20ver-Visitar-blue?style=for-the-badge" alt="Ir a ver Games" />
+          </a>
+        </p>
       </div>
     </td>
+
 
   </tr>
 </table>
@@ -46,10 +51,14 @@ Soy Wendell Jarquin. Desarrollo sistemas y sitios web desde cero usando PHP puro
       <div style="border:1px solid #e1e4e8; padding:16px; border-radius:10px; text-align:left;">
         <h3 style="margin:0 0 6px 0;">🏛️ Portal — Alcaldía Nueva Guinea</h3>
         <p style="margin:6px 0 10px 0; color:#333;">
-          Portal institucional desarrollado con PHP puro: administración de contenidos, accesibilidad y gestión enfocada en el equipo municipal.
+          Portal institucional desarrollado con PHP puro: administración de contenidos, accesibilidad y gestión enfocada en el equipo municipal del municipio de Nueva Guinea en Nicaragua.
         </p>
-        <p style="margin:0; font-weight:600;">URL:</p>
-        <pre style="background:#f6f8fa; padding:8px; border-radius:6px; overflow:auto; margin-top:6px;">https://alcaldianuevaguinea.com/</pre>
+        <p style="margin:0; font-weight:600;">Acceder:</p>
+        <p align="center" style="margin-top:8px;">
+          <a href="https://alcaldianuevaguinea.com/" target="_blank" rel="noopener">
+            <img src="https://img.shields.io/badge/Ir%20a%20ver-Visitar-blue?style=for-the-badge" alt="Ir a ver Alcaldía" />
+          </a>
+        </p>
       </div>
     </td>
   </tr>
