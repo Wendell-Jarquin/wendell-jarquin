@@ -64,6 +64,22 @@ Soy Wendell Jarquin. Desarrollo sistemas y sitios web desde cero usando PHP puro
   </tr>
 </table>
 
+<td align="center" valign="top" width="50%">
+  <div style="border:1px solid #e1e4e8; padding:16px; border-radius:10px; text-align:left;">
+    <h3 style="margin:0 0 6px 0;">🌿 NuevaG-Digital — Nueva Guinea, Nicaragua</h3>
+    <p style="margin:6px 0 10px 0; color:#333;">
+      Página web turística local para descubrir la riqueza natural, cultural y humana de Nueva Guinea, Nicaragua.
+      Un espacio para locales y visitantes con información, noticias, turismo y un e-commerce con productos y servicios de negocios locales.
+    </p>
+    <p style="margin:0; font-weight:600;">Acceder:</p>
+    <p align="center" style="margin-top:8px;">
+      <a href="https://nuevaguineanicaragua.com/" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/Ir%20a%20ver-Visitar-blue?style=for-the-badge" alt="Ir a ver NuevaG-Digital" />
+      </a>
+    </p>
+  </div>
+</td>
+
 ---
 
 ## Visualización y estadísticas (2 columnas)
