@@ -148,9 +148,10 @@ PHP (puro) • HTML5 • JavaScript (vanilla) • CSS moderno (responsive) • M
 ## Contacto
 GitHub: Wendell-Jarquin
 
-Proyectos (URLs en texto):
+Proyectos :
 http://games.wendelljarxd.com/  
 https://alcaldianuevaguinea.com/
+https://nuevaguineanicaragua.com/
 
 ---
 
